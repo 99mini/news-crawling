@@ -1,2 +1,6 @@
+# output
 *.csv
 *.xlsx
+
+# chromedriver
+*chromedriver*
